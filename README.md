@@ -1,4 +1,4 @@
-# Terraform Infra launch using the modules 
+# Terraform Infra Launch Using the Modules 
 
 ```main.tf``` file , we have all the modules reference to be created from the resources , that are in the diffrenet folders , according to the resource formation
 
@@ -93,10 +93,3 @@ then create a backend association like this -
 - Create the dynamoDB table and modified the Terraform S3 backend resource and add in the dynamoDB table - 
 
 ![image](https://user-images.githubusercontent.com/67600604/190148169-7277e6d3-f7c7-4fd8-8ce7-63525aa1319b.png)
-
-
-
-
-
-
-
