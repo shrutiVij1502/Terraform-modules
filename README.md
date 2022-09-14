@@ -1,7 +1,5 @@
 # Terraform Infra launch using the modules 
 
-## Step 1
-
 ```main.tf``` file , we have all the modules reference to be created from the resources , that are in the diffrenet folders , according to the resource formation
 
 In ```main.tf``` file , we have the modules , in which , we have -  
