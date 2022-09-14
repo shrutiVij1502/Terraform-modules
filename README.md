@@ -10,6 +10,6 @@ in each file , we can mention the variables or we can create the variable.tf fil
 
 Here, we created 
 
-one directory named as EC2 and created the ec2 module and variable in the same file 
+one directory named as EC2 and created the ec2 module and variable in the same file to create the EC2 from the resourse 
 
 
